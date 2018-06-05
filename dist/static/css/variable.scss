@@ -1,0 +1,27 @@
+// 导航栏宽度
+$navigateWidth: 240px;
+$navigateMinWidth: 180px;
+$navigateHeight: 64px;
+
+// 内容栏宽度
+$contentWidth: 1200px;
+$contentMinWidth: 800px;
+
+// 正文字体大小
+$contentFontSize: 16px;
+$contentLineHeight: 24px;
+
+%table22 {
+  .title-left {
+    width: 200px;    
+  }
+  .content-left {
+    width: 305px;
+  }
+  .title-right {
+    width: 200px;
+  }
+  .content-right {
+    width: 305px;
+  }
+}

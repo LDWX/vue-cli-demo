@@ -1,0 +1,71 @@
+/* 定义通用样式 */
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+}
+.page {
+    /* width: 595.29px; */
+    /* height: 841.90px; */
+    width: 810px;
+    height: 1100px;
+    margin: 0 auto;
+    background-color: white;    
+}
+.page-special {
+    width: 810px;
+    height: auto;
+    margin: 0 auto;
+    /* padding: 20px 0; */
+    background-color: white;
+}
+.module {
+    display: block;
+}
+.clear {
+    clear: both;
+}
+.title-large {
+    font-size: 52px;
+    color: #ffffff;
+    letter-spacing: 3px;
+    text-align: center;
+    line-height: 72px;
+}
+.no-data {
+    text-align: center;
+}
+.page-break-after {
+    page-break-after: always;
+}
+.page-break-before {
+    page-break-before: always;
+}
+
+
+/* iconfonts样式 */
+.icon {
+    width: 1em; height: 1em;
+    vertical-align: -0.15em;
+    fill: currentColor;
+    overflow: hidden;
+ }
+
+
+ /* 与生成pdf相关样式 */
+ /* thead {
+    display: table-row-group;
+ } */
+ tr {
+    page-break-before: always;
+    page-break-after: always;
+    page-break-inside: avoid;
+}
+table {
+    word-wrap: break-word;
+}
+table td {
+    word-break: break-all;
+}
+
