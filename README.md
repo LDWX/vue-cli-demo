@@ -2,7 +2,8 @@
 
 > A Vue.js project
 
-- 这个项目包含：
+> 这个项目包含：
+
 - 多文件入口
 - 单独的filters
 - 单独的methods
