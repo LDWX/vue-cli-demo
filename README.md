@@ -1,12 +1,13 @@
 # vue-cli-demo
 
 > A Vue.js project
-> 这个项目包含：
-> 多文件入口
-> 单独的filters
-> 单独的methods
-> 单独的scss文件
-> vuex
+
+- 这个项目包含：
+- 多文件入口
+- 单独的filters
+- 单独的methods
+- 单独的scss文件
+- vuex
 
 
 ## Build Setup
