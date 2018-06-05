@@ -9,6 +9,8 @@
 - 单独的methods
 - 单独的scss文件
 - vuex
+- vue-router
+- 为生产环境配置相对路径，dist不需要强制设置为根路径
 
 
 ## Build Setup
