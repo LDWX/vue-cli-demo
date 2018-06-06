@@ -17,6 +17,11 @@
 
 > [谷歌免费字体网站](https://fonts.google.com/)
 
+## 多页面入口使用指南
+
+添加多页面时，需要在 src/pages/ 目录下创建自己的独立文件夹，
+并在文件夹中添加 index.html 与 index.js 。当运行打包工具时，
+会自动为你生成多页面。
 
 ## Build Setup
 
