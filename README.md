@@ -5,9 +5,9 @@
 > 这个项目包含：
 
 - 多文件入口
-- 单独的filters
-- 单独的methods
-- 单独的scss文件
+- 全局的filters
+- 全局的methods
+- 全局的scss文件
 - vuex
 - vue-router
 - 为生产环境配置相对路径，dist不需要强制设置为根路径
