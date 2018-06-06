@@ -11,6 +11,7 @@
 - vuex
 - vue-router
 - 为生产环境配置相对路径，dist不需要强制设置为根路径
+- 添加web字体
 
 > [字体转换网站](https://www.fontsquirrel.com/tools/webfont-generator)
 
