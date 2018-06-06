@@ -1,3 +1,4 @@
+/* 定义通用样式 */
 * {
     box-sizing: border-box;
 }
@@ -67,8 +68,4 @@ table {
 table td {
     word-break: break-all;
 }
-/* div,
-.total-block{
-    page-break-inside: avoid;
-} */
 

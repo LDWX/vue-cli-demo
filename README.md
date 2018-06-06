@@ -12,6 +12,10 @@
 - vue-router
 - 为生产环境配置相对路径，dist不需要强制设置为根路径
 
+> [字体转换网站](https://www.fontsquirrel.com/tools/webfont-generator)
+
+> [谷歌免费字体网站](https://fonts.google.com/)
+
 
 ## Build Setup
 
